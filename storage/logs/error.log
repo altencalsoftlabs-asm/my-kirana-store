@@ -1,0 +1,34 @@
+2018-05-25 8:45:11 - PHP Warning:  fopen(C:/wamp64/www/opencart3/storage/cache/cache.catalog.language.1527241511): failed to open stream: No such file or directory in C:\wamp64\www\opencart3\system\library\cache\file.php on line 49
+2018-05-25 8:45:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\wamp64\www\opencart3\system\library\cache\file.php on line 51
+2018-05-25 8:45:11 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\wamp64\www\opencart3\system\library\cache\file.php on line 53
+2018-05-25 8:45:11 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\wamp64\www\opencart3\system\library\cache\file.php on line 55
+2018-05-25 8:45:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\wamp64\www\opencart3\system\library\cache\file.php on line 57
+2018-05-25 8:45:11 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\wamp64\www\opencart3\system\library\cache\file.php on line 59
+2018-05-25 8:45:11 - PHP Warning:  fopen(C:/wamp64/www/opencart3/storage/cache/cache.currency.1527241511): failed to open stream: No such file or directory in C:\wamp64\www\opencart3\system\library\cache\file.php on line 49
+2018-05-25 8:45:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\wamp64\www\opencart3\system\library\cache\file.php on line 51
+2018-05-25 8:45:11 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\wamp64\www\opencart3\system\library\cache\file.php on line 53
+2018-05-25 8:45:11 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\wamp64\www\opencart3\system\library\cache\file.php on line 55
+2018-05-25 8:45:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\wamp64\www\opencart3\system\library\cache\file.php on line 57
+2018-05-25 8:45:11 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\wamp64\www\opencart3\system\library\cache\file.php on line 59
+2018-05-25 9:26:20 - PHP Notice:  Undefined index: pack_type_id in C:\wamp64\www\opencart3\admin\model\localisation\pack_type.php on line 102
+2018-05-25 9:26:20 - PHP Notice:  Undefined index: pack_type_id in C:\wamp64\www\opencart3\storage\modification\admin\model\catalog\product.php on line 12
+2018-05-25 9:26:20 - PHP Notice:  Undefined index: description in C:\wamp64\www\opencart3\storage\modification\admin\model\catalog\product.php on line 32
+2018-05-25 9:26:20 - PHP Notice:  Undefined index: tag in C:\wamp64\www\opencart3\storage\modification\admin\model\catalog\product.php on line 32
+2018-05-25 9:26:20 - PHP Notice:  Undefined index: meta_description in C:\wamp64\www\opencart3\storage\modification\admin\model\catalog\product.php on line 32
+2018-05-25 9:26:20 - PHP Notice:  Undefined index: meta_keyword in C:\wamp64\www\opencart3\storage\modification\admin\model\catalog\product.php on line 32
+2018-05-25 9:28:59 - PHP Notice:  Undefined index: product_gender_id in C:\wamp64\www\opencart3\storage\modification\admin\controller\catalog\product.php on line 1407
+2018-05-25 9:31:32 - PHP Notice:  Undefined index: product_gender_id in C:\wamp64\www\opencart3\storage\modification\admin\controller\catalog\product.php on line 1407
+2018-05-25 9:31:50 - PHP Notice:  Undefined index: product_gender_id in C:\wamp64\www\opencart3\storage\modification\admin\controller\catalog\product.php on line 1407
+2018-05-25 9:34:49 - PHP Notice:  Undefined index: product_gender_id in C:\wamp64\www\opencart3\storage\modification\admin\controller\catalog\product.php on line 1407
+2018-05-25 9:35:07 - PHP Notice:  Undefined index: status in C:\wamp64\www\opencart3\storage\modification\admin\model\catalog\product.php on line 157
+2018-05-25 9:37:37 - PHP Notice:  Undefined index: status in C:\wamp64\www\opencart3\storage\modification\admin\model\catalog\product.php on line 157
+2018-05-25 9:38:11 - PHP Notice:  Undefined index: approval_id in C:\wamp64\www\opencart3\admin\model\kirana\approval_user.php on line 8
+2018-05-25 9:38:11 - PHP Notice:  Undefined index: approval_status in C:\wamp64\www\opencart3\admin\model\kirana\approval_user.php on line 9
+2018-05-25 10:33:30 - PHP Notice:  Undefined index: pack_type_id in C:\wamp64\www\opencart3\storage\modification\admin\model\catalog\product.php on line 12
+2018-05-25 10:33:30 - PHP Notice:  Undefined index: description in C:\wamp64\www\opencart3\storage\modification\admin\model\catalog\product.php on line 32
+2018-05-25 10:33:30 - PHP Notice:  Undefined index: tag in C:\wamp64\www\opencart3\storage\modification\admin\model\catalog\product.php on line 32
+2018-05-25 10:33:30 - PHP Notice:  Undefined index: meta_description in C:\wamp64\www\opencart3\storage\modification\admin\model\catalog\product.php on line 32
+2018-05-25 10:33:30 - PHP Notice:  Undefined index: meta_keyword in C:\wamp64\www\opencart3\storage\modification\admin\model\catalog\product.php on line 32
+2018-05-25 10:36:44 - PHP Notice:  Undefined index: status in C:\wamp64\www\opencart3\storage\modification\admin\model\catalog\product.php on line 157
+2018-05-25 10:36:56 - PHP Notice:  Undefined index: approval_id in C:\wamp64\www\opencart3\admin\model\kirana\approval_user.php on line 8
+2018-05-25 10:36:56 - PHP Notice:  Undefined index: approval_status in C:\wamp64\www\opencart3\admin\model\kirana\approval_user.php on line 9
