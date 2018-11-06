@@ -1,0 +1,1 @@
+/var/www/html/kirana/lib/web/mage/ie-class-fixer.js
